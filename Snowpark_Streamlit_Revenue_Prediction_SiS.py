@@ -13,7 +13,7 @@ from snowflake.snowpark.functions import col
 connection_parameters = {
   "account": "wgb71941.us-east-1",
   "user": "fjkiani",
-  "password": "Kiani11209!",
+  "password": "#!",
   "role"      : "ACCOUNTADMIN",
   "warehouse" : "DASH_L",
   "database"  : "DASH_DB",
